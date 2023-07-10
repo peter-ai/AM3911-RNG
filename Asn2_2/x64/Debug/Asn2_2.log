@@ -1,0 +1,3 @@
+﻿  asn2_2.cpp
+C:\Users\Peter\Documents\UWO Work\Year 3\Sem2\AM3911G\Assignments\Assignment2\Asn2_2\asn2_2.cpp(25,34): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  Asn2_2.vcxproj -> C:\Users\Peter\Documents\UWO Work\Year 3\Sem2\AM3911G\Assignments\Assignment2\Assignment2\x64\Debug\Asn2_2.exe
